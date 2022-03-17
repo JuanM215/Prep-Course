@@ -38,7 +38,11 @@ const {
 describe('nuevaString', function() {
   it('Deberia ser un string', function() {
     expect(typeof nuevaString).toBe('string');
-  });
+  });nuevaString, Function() {
+    it "Deberia ser un string" , function() {
+      expect
+    }
+  }
 });
 
 describe('nuevoNum', function() {
